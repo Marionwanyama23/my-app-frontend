@@ -6,7 +6,6 @@ import React, {useEffect, useState } from "react";
 import {Route, useHistory} from "react-router-dom";
 
 
-
 function App() {  
 
   const potato = (data) => data.json()
