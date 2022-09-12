@@ -11,6 +11,7 @@ function LandingPage () {
     <Link to="/mainpage">
         <Button> My Routines</Button>
     </Link>
+    
     <LandingHeaderContainer>Simplified Fitness</LandingHeaderContainer>
     </Styleddiv>
     </div>
