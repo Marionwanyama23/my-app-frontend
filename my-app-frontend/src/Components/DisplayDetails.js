@@ -31,7 +31,6 @@ function DisplayDetails ({routineExercises, routineImage}) {
     );
 }
 
-
 export default DisplayDetails;
 
 
