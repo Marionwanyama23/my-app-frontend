@@ -15,6 +15,7 @@ function CreateExerciseForm ({handleAddExercise}) {
         setFormData({...formData, [e.target.name]:e.target.value})
     }
 
+    
     const handleSubmit = (e) => {
         const newExercise = {...formData}
         e.preventDefault() 
