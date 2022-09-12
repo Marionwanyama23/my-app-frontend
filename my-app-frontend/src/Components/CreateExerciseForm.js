@@ -32,6 +32,7 @@ function CreateExerciseForm ({handleAddExercise}) {
     }
 
     return (
+        
     <>
         <BackgroundImage>
         <Header />
