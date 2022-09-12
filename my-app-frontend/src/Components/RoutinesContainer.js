@@ -13,10 +13,11 @@ function RoutinesContainer ({routines,handleDelete}) {
         setRoutineExercises(routineExercises)
     
     }
-    
+
     const displayRoutineImage = (routineImage) => {
         setRoutineImage(routineImage)
     }
+    
     const isTrue = (clicked) => {
         setClicked(clicked => !clicked)
     }
