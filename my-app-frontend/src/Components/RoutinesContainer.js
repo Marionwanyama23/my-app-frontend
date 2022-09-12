@@ -13,6 +13,7 @@ function RoutinesContainer ({routines,handleDelete}) {
         setRoutineExercises(routineExercises)
     
     }
+    
     const displayRoutineImage = (routineImage) => {
         setRoutineImage(routineImage)
     }
