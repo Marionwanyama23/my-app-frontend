@@ -22,6 +22,7 @@ function Header () {
 
 export default Header;
 
+
 const HeaderContainer = styled.div`
     justify-content:space-around;
     font-family: 'Lobster', cursive;
