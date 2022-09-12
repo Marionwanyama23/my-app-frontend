@@ -6,7 +6,6 @@ function DisplayDetails ({routineExercises, routineImage}) {
     
     return (
         
-        
         <Layout>
             <div>
                 {routineImage ? 
