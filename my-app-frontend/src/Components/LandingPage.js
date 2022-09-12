@@ -49,7 +49,6 @@ const Button = styled.button`
     margin-left: 1300px;
 `
 
-
 const LandingHeaderContainer = styled.div`
     display:flex;
     justify-content:space-around;
