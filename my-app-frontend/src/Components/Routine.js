@@ -42,6 +42,7 @@ const RoutineBox = styled.div`
 
 `;
 
+
 const DetailButton = styled.button`
     background: ${props => props.primary ? "black" : "white"};
     color: ${props => props.primary ? "white" : "black"};
