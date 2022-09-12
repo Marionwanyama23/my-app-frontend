@@ -102,6 +102,7 @@ const BackgroundImage = styled.div`
     background-repeat: no-repeat;  
 `
 
+
 const Styleddiv = styled.div`
 
     font-size: 1.5em;
