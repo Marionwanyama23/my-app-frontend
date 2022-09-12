@@ -44,7 +44,6 @@ const handleAddExercise = (newExercise) => {
       },
       body: JSON.stringify(newExercise)
   }) 
-  
   .then(potato)
   .then(newExerciseFromBackend => {
     const updatedExercises =  [newExerciseFromBackend, ...exercises]
