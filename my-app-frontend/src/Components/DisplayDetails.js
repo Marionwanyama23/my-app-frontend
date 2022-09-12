@@ -34,6 +34,7 @@ function DisplayDetails ({routineExercises, routineImage}) {
 
 export default DisplayDetails;
 
+
 const Layout = styled.div`
     height: 80vh;
     width: 95%;
