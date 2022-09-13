@@ -1,7 +1,7 @@
 {
   "name": "my-app-frontend",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/Marionwanyama23/my-app-frontend/issues"
   },
-  "homepage": "https://github.com/Marionwanyama23/my-app-frontend#readme"
+  "homepage": "https://github.com/Marionwanyama23/my-app-frontend#readme",
+  "devDependencies": {}
 }
