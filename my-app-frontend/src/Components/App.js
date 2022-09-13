@@ -1,7 +1,7 @@
-import LandingPage from "./Components/LandingPage";
-import MainPage from "./Components/MainPage";
-import CreateRoutineForm from "./Components/CreateRoutineForm";
-import CreateExerciseForm from "./Components/CreateExerciseForm";
+import LandingPage from "./LandingPage";
+import MainPage from "./MainPage";
+import CreateRoutineForm from "./CreateRoutineForm";
+import CreateExerciseForm from "./CreateExerciseForm";
 import React, {useEffect, useState } from "react";
 import {Route, useHistory} from "react-router-dom";
 
